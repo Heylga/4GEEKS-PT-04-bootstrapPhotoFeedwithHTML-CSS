@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    align-items: center;
+}
+.border {
+    display: inline-block;
+    width: 301px;
+    height: 301px;
+    margin: 6px;
+  }
+  .blockquote-footer::before {
+    
+}
